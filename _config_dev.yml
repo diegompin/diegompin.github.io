@@ -1,20 +1,19 @@
-
 # The name of your website.
-name: Holo Alfa
+name: Diego Pinheiro
 
 description:
 
   # Description of your site. This will show up in google.
-  meta: Holo Alfa is a minimalist, mobile first Jekyll theme with focus on readability and content.
+  meta: Diego Pinheiro
 
   # Description of your site. This will show up on the front page.
-  subtitle: Holo Alfa is a minimalist, mobile first Jekyll theme with focus on readability and content. <a href="https://github.com/steinvc/holo-alfa">&lt;/&gt; on Github</a>.
+  # subtitle: In the past 11 years, I built an unique background (i.e., programming skills, software development, mathematical optimization, computer simulation, and data science) that allows me to develop diverse computer-based solutions ranging from a sensor to characterize population awareness regarding organ transplantation by mining user conversations on social media to a coordination approach for unmanned aerial vehicles using computational models that are biologically inspired on flocks of birds. In health and medical sciences, my background is particularly valuable to approach health as an interconnected and complex system, developing effective computer-based technology (e.g., digital sensors, information systems, and computational tools), and making sense and integrating a variety of health-related systems that are rapidly producing an ever-increasing volume of data.
 
 author:
-  name: Dr. Jekyll # Change this!
+  name: Diego Pinheiro # Change this!
 
   # Necessary for contact page
-  email: your@email.com # Change this!
+  email: diegompin@gmail.com # Change this!
 
   # Optional text (html) to display after author name. Leave empty if you don't
   # want it.

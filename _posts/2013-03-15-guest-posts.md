@@ -1,9 +1,9 @@
 ---
 title: Guest Posts
 
-author:
+<!-- author:
   name: George Michael
-  info: (@<a href="https://twitter.com/georgemichael">GeorgeMichael</a>)
+  info: (@<a href="https://twitter.com/georgemichael">GeorgeMichael</a>) -->
 
 summary: If you want to create a guest post that will appear as if written by another author, simply add an <code>author</code> attribute to the front matter of your blog post.
 ---
